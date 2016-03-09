@@ -1,5 +1,5 @@
-### NCCU MIS DBMS Course Project
-### 國立政治大學 資管系 資料庫管理 課堂專題
+# NCCU MIS DBMS Course Project
+# 國立政治大學 資管系 資料庫管理 課堂專題
 
 ## Database Development Prject
 
@@ -13,7 +13,7 @@
 
  * Due date: 30, Mar.
 
-# Stage I Report Requirement (20 points of the term project)
+### Stage I Report Requirement (20 points of the term project)
  1. Baseline Project Plan (18 points)
   * Introduction (6 points)
    * Background (1point): A brief statement of the problem (1 point) and the motivation to implement this project ( 1 point). 
@@ -33,14 +33,14 @@
    * Provides information regarding with the tools for system requirement determination, including interview guide, observation notes, meeting minutes, existing business documents, etc. (slides 48-55) (1 point)
  2. Statement of Project Scope (2 points) (Refer slide 45)
 
-# Stage 2: Logical Design of the Business Transaction
+## Stage 2: Logical Design of the Business Transaction
 
  * Due date: 27, Apr.
 
-# Implementation
+## Implementation
 
  * MySQL + Node.js (PostgreSQL prefferable?)
 
-# Presentation
+## Presentation
 
  * Due date: 15, Jun.
