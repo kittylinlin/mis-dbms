@@ -6,7 +6,7 @@
  * Environment deployment
  
   * install node.js (ver: 5.7.1, official docker image?)
-  * install MySQL module via `npm install mysql*2*`
+  * install MySQL module via `npm install mysql**2**`
   * install task runner, Grunt `npm install grunt`
 
 ## Stage 1: Requirements Analysis
