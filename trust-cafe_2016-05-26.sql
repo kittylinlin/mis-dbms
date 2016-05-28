@@ -90,6 +90,20 @@ CREATE TABLE `event` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 
+# Dump of table eventTag
+# ------------------------------------------------------------
+
+DROP TABLE IF EXISTS `eventTag`;
+
+CREATE TABLE `eventTag` (
+  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+  `eventId` int(11) unsigned NOT NULL,
+  `interest` ENUM('創業','品酒'),
+  PRIMARY KEY (`id`),
+  CONSTRAINT `tag_fk1` FOREIGN KEY (`eventId`) REFERENCES `event` (`id`) ON DELETE NO ACTION ON UPDATE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+
 
 # Dump of table item
 # ------------------------------------------------------------
