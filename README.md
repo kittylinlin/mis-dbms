@@ -36,6 +36,8 @@ frftft# NCCU MIS DBMS Course Project
 ## Stage 2: Logical Design of the Business Transaction
 
  * Due date: 27, Apr.
+ * 
+### Stage I Report Requirement (20 points of the term project)
 
 ## Implementation
 
