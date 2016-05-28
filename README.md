@@ -36,8 +36,18 @@ frftft# NCCU MIS DBMS Course Project
 ## Stage 2: Logical Design of the Business Transaction
 
  * Due date: 27, Apr.
- * 
-### Stage I Report Requirement (20 points of the term project)
+ 
+### Stage II Report Requirement (20 points of the term project)
+ 1. Consecpual Schema Design( 4 points)
+  * Design the E-R model and EER model for the database containing entities, attributes, relationships and constraints such as cardinality, optional/mandatory cardinality, etc. ( 3 points)
+  *  Specify the business rules to be followed, including derivation, structural assertion and action assertion. ( 1 points)
+ 2. Conversion to Relation Model ( 4 points)
+  * Converte the E-R model to a relational data model schema, and identify primary keys and foreign keys. (2 points)
+  * For each attribute, describe its domain specific criteria. (2 points)
+ 3. Interface / Dialogue Design ( 12 points)
+  * Identify the major business transactions which will be conducted in your system. For each business transaction, design your system interfaces. ( 4 points)
+  * For each display, identify which relations and attributes are read or updated. (4 points) 
+  * Design a dialogue diagram for your system. The dialogue diagram should include the two business transactions indicated above. ( 4 points)
 
 ## Implementation
 
